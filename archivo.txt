@@ -7,3 +7,5 @@ saludo 3 cambio usuario 2
 cambio en rama1
 
 cambio2 en rama1
+
+listo para merge
