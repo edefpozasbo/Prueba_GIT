@@ -4,6 +4,3 @@ saludos usuario 1 con conflicto
 
 saludos desde rama1
 
-
-
-saludo 2 desde rama1 merge
